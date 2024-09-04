@@ -1,1 +1,2 @@
 This file is created to learn and Practise the Git CLI.
+Initial commit is done.
